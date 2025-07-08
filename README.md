@@ -35,29 +35,3 @@ Generated Summary:
 
 Language models like BERT and GPT improved NLP tasks like summarization and translation.
 
-💻 How to Run
-Clone the repo:
-
-bash
-Copy
-Edit
-git clone https://github.com/Madhav-Gupta01/Text-Summarizer.git
-cd Text-Summarizer
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Launch the notebook:
-
-bash
-Copy
-Edit
-jupyter notebook
-Open and run Text_summarizer.ipynb
-
-👤 Author
-Madhav Gupta
-🔗 GitHub
-🔗 LinkedIn
